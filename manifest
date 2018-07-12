@@ -7,12 +7,12 @@ apiversion: 2
 architectures: armv7 arm64 i386 x86_64
 description: ti.systemalert
 author: Hans Knoechel
-license: Specify your license
-copyright: Copyright (c) 2018 by Your Company
+license: MIT
+copyright: Copyright (c) 2018 by Appcelerator
 
 # these should not be edited
 name: ti.systemalert
 moduleid: ti.systemalert
 guid: f83d697a-c27d-4a14-b32e-937dd35e54f7
 platform: iphone
-minsdk: 7.4.0.v20180630025410
+minsdk: 7.0.0

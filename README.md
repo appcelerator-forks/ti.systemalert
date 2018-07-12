@@ -1,6 +1,6 @@
 # iOS System Sounds in Titanium
 
-You can use this module to provide audible system alerts. 
+Configure and play audible system alerts using native iOS API's. 
 
 You can use it to play short (30 seconds or shorter) sounds. The interface does not provide 
 level, positioning, looping, or timing control, and does not support simultaneous playback: 
